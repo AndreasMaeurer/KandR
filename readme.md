@@ -1,14 +1,14 @@
 # Solutions
 ## To K and R
 
-AM
 
-1/8 is not quite clear
+## Review and Practice
 
-## Panic Mode
+It's useful to go back to look at fundamentals from time to time.
 
-Try to finish all of chapter 1 and 2 by next week
 
-##  Crunch Time
+## Notes:
 
-The quick brown fox jumped over the lazy dog.
+
+01_08 is now clear (6/9/19)
+
